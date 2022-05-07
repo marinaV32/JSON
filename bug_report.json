@@ -1,2 +1,18 @@
-'newName': 'source.js'
-'fileTypes': ['json'] 
+{ "Name":"structure bug report",
+"Issue Title":"Pop-up window does not disappear until the date is not changed",
+"Issue Type":"Bug",
+"Priority":"Low",
+"Issue Status":"Blocked",
+"Author(Created by)":"Marina Prokopovich",
+"Severity":" ",
+"Build":" ",
+"Environment":" ", 
+"Name2":"Issue Description, Steps to reproduce",
+"step1":"Select any dish",
+"step2":"Go to the basket",
+"step3":"Select a date next to the last delivery date in the menu(e.x. menu 8-11 Nov, select 15 Nov)",
+"step4":"After the pop-up 'Delivery up t 14.11'appears click on the 'Change a date' button",
+"step5":"Look at the pop-up",
+
+"t1" = "Expected result:The pop-up 'Delivery up to 14.11' does not appear",
+"t2" = "Actual result:The Pop-up remains until the date is not changed to the suitable one" }
